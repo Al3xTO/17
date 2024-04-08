@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Mediator\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Mediator\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+C:\Users\Admin\Documents\Mediator\Mediator\obj\Debug\Mediator.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Mediator\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Admin\Documents\Mediator\Mediator\bin\Debug\Mediator.exe
+C:\Users\Admin\Documents\Mediator\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Admin\Documents\Mediator\Mediator\obj\Debug\Mediator.exe
+C:\Users\Admin\Documents\Mediator\Mediator\obj\Debug\Mediator.pdb
+C:\Users\Admin\Documents\Mediator\Mediator\obj\Debug\Mediator.Form1.resources
